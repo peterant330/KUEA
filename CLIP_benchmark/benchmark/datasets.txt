@@ -1,0 +1,11 @@
+wds/vtab/cifar10
+wds/vtab/cifar100
+wds/vtab/caltech101
+wds/fer2013
+wds/vtab/pets
+wds/vtab/dtd
+wds/vtab/resisc45
+wds/vtab/eurosat
+wds/vtab/pcam
+wds/imagenet_sketch
+wds/imagenet-o

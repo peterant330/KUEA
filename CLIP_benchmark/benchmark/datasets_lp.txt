@@ -1,0 +1,4 @@
+wds/svhn
+wds/gtsrb
+wds/vtab/clevr_closest_object_distance
+wds/vtab/clevr_count_all
